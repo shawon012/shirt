@@ -13,10 +13,10 @@ const Home = () => {
 export default Home;
 
 
-// echo "# tshirt" >> README.md
+// echo "# shirt" >> README.md
 // git init
 // git add README.md
 // git commit -m "first commit"
 // git branch -M main
-// git remote add origin https://github.com/shawon012/tshirt.git
+// git remote add origin https://github.com/shawon012/shirt.git
 // git push -u origin main
